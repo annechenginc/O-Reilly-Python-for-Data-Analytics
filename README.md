@@ -13,5 +13,5 @@ At the end of the book and project, these are my 🔑 key learnings:
 # 📚 Project
 Click on the project title to view my project! 🙂
 
-## 🌤 [Project: Weight and Mileage of Cars]([url](https://github.com/annechenginc/O-Reilly-Python-for-Data-Analytics/blob/main/Weight%20and%20Mileage%20of%20Cars.ipynb))
+## 🌤 Project: [Weight and Mileage of Cars](https://github.com/annechenginc/O-Reilly-Python-for-Data-Analytics/blob/main/Weight%20and%20Mileage%20of%20Cars.ipynb)
 In this data analysis, I use hypothesis testing to analyze car data and compare the relationship of weight of the car to it's manufacturing origin, and I train a linear regression machine learning model.
